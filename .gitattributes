@@ -1,0 +1,5 @@
+# Force LF endings for shell scripts
+*.sh text eol=lf
+
+# Set LF as default for all text files
+* text=auto
